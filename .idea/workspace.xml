@@ -6,7 +6,37 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9cb20c1-99a0-4041-9b74-0de6cb8c2c54" name="Default Changelist" comment="" />
+    <list default="true" id="d9cb20c1-99a0-4041-9b74-0de6cb8c2c54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/Svg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/META-INF/SVG.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/controle/SvgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/modelo/Svg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/SVG.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/edu/ifpb/controle/SvgServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/edu/ifpb/modelo/Svg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVG.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/InfoGeometria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/InfoGeometria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/controle/SvgServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/edu/ifpb/ViewBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/SVG/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/InfoGeometria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/modelo/InfoGeometria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/SvgFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/SvgFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/SvgServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/WEB-INF/classes/br/edu/ifpb/ViewBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/SVG/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SVG/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SVG/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/edu/ifpb/InfoGeometria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/edu/ifpb/modelo/InfoGeometria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/edu/ifpb/SvgFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/edu/ifpb/SvgFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/edu/ifpb/SvgServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/edu/ifpb/ViewBox.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,31 +53,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="335">
               <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/Svg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="121">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,10 +81,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/InfoGeometria.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/controle/SvgServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/InfoGeometria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,17 +128,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/edu/ifpb/InfoGeometria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/edu/ifpb/Svg.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/css/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/style.css" />
       </list>
     </option>
   </component>
@@ -92,78 +155,89 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="-3" />
+    <option name="y" value="-1" />
+    <option name="width" value="1372" />
+    <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ifpb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ifpb" type="462c0819:PsiDirectoryNode" />
+              <item name="modelo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SVG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SVG" type="462c0819:PsiDirectoryNode" />
+              <item name="gerador_svg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gerador_svg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PW1/Projeto/NeedHotel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -184,7 +258,6 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.401" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.401" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SVG_war_exploded/" />
       <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -275,23 +348,31 @@
       <workItem from="1559685790700" duration="3879000" />
       <workItem from="1559689845861" duration="1462000" />
       <workItem from="1559692020217" duration="1884000" />
+      <workItem from="1559783344133" duration="1788000" />
+      <workItem from="1559785791892" duration="23000" />
+      <workItem from="1559924273438" duration="919000" />
+      <workItem from="1559925942277" duration="3559000" />
+      <workItem from="1559946717547" duration="4695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17728000" />
+    <option name="totallyTimeSpent" value="28712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-3" y="-1" width="1372" height="737" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16818182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32026145" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31967214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,7 +380,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32843137" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32843137" />
@@ -310,6 +391,9 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1482602" />
@@ -344,17 +428,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vividsolutions/jts/1.13/jts-1.13.jar!/com/vividsolutions/jts/io/WKTReader.class" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="119" column="29" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="29" />
+        <state relative-caret-position="335">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/InfoGeometria.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/modelo/Svg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -363,51 +456,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/ViewBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="-435">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vividsolutions/jts/1.13/jts-1.13.jar!/com/vividsolutions/jts/io/WKTReader.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/controle/SvgServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="121">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/InfoGeometria.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/edu/ifpb/SvgFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

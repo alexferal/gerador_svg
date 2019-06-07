@@ -1,6 +1,7 @@
-package br.edu.ifpb;
+package br.edu.ifpb.controle;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
+import br.edu.ifpb.modelo.InfoGeometria;
+import br.edu.ifpb.modelo.Svg;
 import com.vividsolutions.jts.geom.Geometry;
 import com.vividsolutions.jts.geom.Point;
 import com.vividsolutions.jts.io.ParseException;
@@ -33,6 +34,10 @@ public class SvgServlet extends HttpServlet {
 
             Geometry geom1 = reader.read(req.getParameter("geom1"));
             Geometry geom2 = reader.read(req.getParameter("geom2"));
+            Svg svgG1 = new Svg(geom1);
+            Svg svgG2 = new Svg(geom2);
+            Svg viewBox = new Svg(geom1.union(geom2));
+
             info.setGeometry1(geom1);
             info.setGeometry2(geom2);
 
@@ -59,11 +64,10 @@ public class SvgServlet extends HttpServlet {
             info.setWithin(within);
 
             req.setAttribute("info", info);
+            req.setAttribute("geom1", svgG1.getPath());
+            req.setAttribute("geom2", svgG2.getPath());
+            req.setAttribute("viewBox", viewBox.getViewBox());
             req.getRequestDispatcher("index.jsp").forward(req, resp);
-
-
-
-
         } catch (ParseException e) {
             e.printStackTrace();
         } catch (ServletException e) {
